@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>@string/settings_order_by_newest_label</item>
+        <item>@string/settings_order_by_oldest_label</item>
+        <item>@string/settings_order_by_relevance_label</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>@string/settings_order_by_newest_value</item>
+        <item>@string/settings_order_by_oldest_value</item>
+        <item>@string/settings_order_by_relevance_value</item>
+    </string-array>
+
+
+    <string-array name="settings_page_size_labels">
+        <item>@string/settings_page_size_10_label</item>
+        <item>@string/settings_page_size_20_label</item>
+        <item>@string/settings_page_size_30_label</item>
+        <item>@string/settings_page_size_40_label</item>
+        <item>@string/settings_page_size_50_label</item>
+    </string-array>
+
+    <string-array name="settings_page_size_values">
+        <item>@string/settings_page_size_10_value</item>
+        <item>@string/settings_page_size_20_value</item>
+        <item>@string/settings_page_size_30_value</item>
+        <item>@string/settings_page_size_40_value</item>
+        <item>@string/settings_page_size_50_value</item>
+    </string-array>
+</resources>

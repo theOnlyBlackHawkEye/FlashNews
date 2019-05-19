@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Flash News</string>
+    <string name="settings_activity_label">Flash News Settings</string>
+
+    <string name="no_news">No News found match the current Query.</string>
+    <string name="no_internet_connection">No internet connection.</string>
+
+    <string name="settings_menu_item">Settings</string>
+    <string name="settings_title">FlashNews Settings</string>
+
+
+
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value" translatable="false">newest</string>
+
+    <string name="settings_order_by_oldest_label">Oldest</string>
+    <string name="settings_order_by_oldest_value" translatable="false">oldest</string>
+
+
+
+
+    <string name="settings_page_size_label">Page Size</string>
+    <string name="settings_page_size_key" translatable="false">page_size</string>
+    <string name="settings_page_size_default" translatable="false">@string/settings_page_size_10_value</string>
+
+    <string name="settings_page_size_10_label">10 Results</string>
+    <string name="settings_page_size_10_value" translatable="false">10</string>
+
+    <string name="settings_page_size_20_label">20 Results</string>
+    <string name="settings_page_size_20_value" translatable="false">20</string>
+
+    <string name="settings_page_size_30_label">30 Results</string>
+    <string name="settings_page_size_30_value" translatable="false">30</string>
+
+    <string name="settings_page_size_40_label">40 Results</string>
+    <string name="settings_page_size_40_value" translatable="false">40</string>
+
+    <string name="settings_page_size_50_label">50 Results</string>
+    <string name="settings_page_size_50_value" translatable="false">50</string>
+
+
+    <string name="news_section_container">US news World news News UK news Business UK politics Politics Environment Education Science Global development </string>
+    <string name="opinion_section_container">Opinion The Guardian view Columnists Society Letters</string>
+    <string name="sports_section_container">Sport Football Rugby union Cricket Tennis Cycling F1 Golf Boxing Rugby league Racing US sports</string>
+    <string name="culture_section_container">Technology Culture Media Film Music Television radio Books Art design Art and design Stage Games Classical</string>
+    <string name="lifestyle_section_container">Lifestyle Life and style Fashion Food Recipes Travel Health fitness Women Beauty Home garden Money Cars</string>
+</resources>
